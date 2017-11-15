@@ -1,0 +1,7 @@
+body {
+    margin: 0; /* To make the canvas 100% of the window size */
+}
+
+canvas {
+    border: 1px solid black;
+}
